@@ -22,7 +22,7 @@ public class Login extends AppCompatActivity {
     //VARIABLES LOCALES
     public String user;
     public String pass;
-    public Context context,
+    public Context context;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
