@@ -23,6 +23,7 @@ public class Login extends AppCompatActivity {
     public String user;
     public String pass;
     public Context context;
+    public String prueba;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
